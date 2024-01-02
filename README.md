@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 # LinearA Explorer
 
 The objective of [the LinearA Explorer](https://mwenge.github.io/LinearAExplorer/) is to allow users to explore the complete Linear A corpus in a way that is intuitive and hopefully illuminating. But while it might be of passing interest to the curious visitor it must also be of practical use to interested Linear A scholars. That means that is must offer them something not currently available to them and allow them to investigate and explore the Linear A dataset in ways that were not previously open to them. While still a work in progress, I think the Linear A Explorer is on its way to achieving that. 
