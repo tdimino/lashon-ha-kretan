@@ -77626,49 +77626,6 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "ARKH1af",
-        "tagsForWords": [
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "lacuna at end",
-                    "Appears at 10 find sites",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "A",
-                "word": "𐝫𐘇𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            }
-        ]
-    },
-    {
         "name": "ARKH1b",
         "tagsForWords": [
             {
@@ -79678,11 +79635,29 @@ var wordAnnotations =
     },
     {
         "name": "PORZf2",
-        "tagsForWords": []
+        "tagsForWords": [
+          {
+            "tags": [
+              "word",
+              "Only instance of word"
+            ],
+            "transliteratedWord": [ "TU-PI-TA" ],
+            "words": [ "𐘹𐘢𐘳" ]
+          }
+        ]
     },
     {
         "name": "PKZb26",
-        "tagsForWords": []
+        "tagsForWords": [
+          {
+            "tags": [
+              "word",
+              "Only instance of word"
+            ],
+            "transliteratedWord": [ "TO-PA3-DI" ],
+            "word": [ "𐘄𐘰𐘆" ]
+          }
+        ]
     },
     {
         "name": "ZAZb39",

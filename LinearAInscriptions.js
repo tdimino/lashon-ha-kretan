@@ -17522,7 +17522,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTW231d-f",
     "names": [
         "HTW231d-f"
@@ -17532,9 +17532,9 @@ var inscriptions = new Map([
     "site": "Haghia Triada",
     "support": "Tablet",
     "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
+    "translatedWords": ["None"],
+    "transliteratedWords": ["None"],
+    "words": ["None"]
 }],
 ["HTWa1001",{
     "context": "LMIB",
@@ -43320,7 +43320,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTWb229",
     "names": [
         "HTWb229"
@@ -44412,7 +44412,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/noimage.jpg"
+    ],
     "name": "HTZb162",
     "names": [
         "HTZb162"
@@ -44438,7 +44440,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZb162bis",
     "names": [
         "HTZb162bis"
@@ -44581,7 +44583,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZf163",
     "names": [
         "HTZf163"
@@ -44607,7 +44609,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZf164",
     "names": [
         "HTZf164"
@@ -44633,7 +44635,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZf165",
     "names": [
         "HTZf165"
@@ -44659,7 +44661,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZf166",
     "names": [
         "HTZf166"
@@ -44685,7 +44687,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZf167",
     "names": [
         "HTZf167"
@@ -44711,7 +44713,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZf168",
     "names": [
         "HTZf168"
@@ -44743,7 +44745,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "HTZf169",
     "names": [
         "HTZf169"
@@ -45350,7 +45352,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "IOZa15",
     "names": [
         "IOZa15"
@@ -45463,7 +45465,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KAMZb1",
     "names": [
         "KAMZb1"
@@ -54712,7 +54714,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KHWc2074",
     "names": [
         "KHWc2074"
@@ -54738,7 +54740,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KHWc2079",
     "names": [
         "KHWc2079"
@@ -54794,7 +54796,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KHWc2088",
     "names": [
         "KHWc2088"
@@ -54820,7 +54822,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KHWc2089",
     "names": [
         "KHWc2089"
@@ -54846,7 +54848,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KHWc2095",
     "names": [
         "KHWc2095"
@@ -55450,7 +55452,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KHWc2121",
     "names": [
         "KHWc2121"
@@ -55536,7 +55538,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KHWc2124",
     "names": [
         "KHWc2124"
@@ -56084,7 +56086,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KN54",
     "names": [
         "KN54",
@@ -56262,7 +56264,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KNWb51",
     "names": [
         "KNWb51"
@@ -57119,7 +57121,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "KNZb54",
     "names": [
         "KNZb54"
@@ -58730,11 +58732,15 @@ var inscriptions = new Map([
 }],
 ["MARGWa1-26",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/MARGWa1-12-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/MARGWa1-12-Inscription.png"
+    ],
     "name": "MARGWa1-26",
     "names": [
         "MARGWa1-26"
@@ -58919,7 +58925,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "MOZb2?",
     "names": [
         "MOZb2?"
@@ -58939,7 +58945,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "MOZb3?",
     "names": [
         "MOZb3?"
@@ -58990,7 +58996,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "MYZa2",
     "names": [
         "MYZa2"
@@ -59016,10 +59022,11 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/MYZf1-Inscription.png"],
     "name": "MYZf1",
     "names": [
-        "MYZf1"
+        "MYZf1",
+        "MYZf2"
     ],
     "parsedInscription": "𐛉",
     "scribe": "",
@@ -59338,7 +59345,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "PEWs",
     "names": [
         "PEWs"
@@ -59403,7 +59410,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "PEZb",
     "names": [
         "PEZb"
@@ -59455,12 +59462,15 @@ var inscriptions = new Map([
 }],
 ["PEZb7",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PEZb7-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
-        "images/PEZb7-Inscription.jpg"
+        "images/PEZb7-Inscription.jpg",
+        "images/PEZb7-Inscription.png"
     ],
     "name": "PEZb7",
     "names": [
@@ -59492,11 +59502,15 @@ var inscriptions = new Map([
 }],
 ["PEZb8",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PEZb8-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/PEZb8-Inscription.png"
+    ],
     "name": "PEZb8",
     "names": [
         "PEZb8"
@@ -59593,11 +59607,15 @@ var inscriptions = new Map([
 }],
 ["PEZg6",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PEZg6-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/PEZg6-Inscription.png"
+    ],
     "name": "PEZg6",
     "names": [
         "PEZg6",
@@ -59648,7 +59666,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "PETSWc",
     "names": [
         "PETSWc"
@@ -61928,7 +61946,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "PHWb55",
     "names": [
         "PHWb55",
@@ -69304,7 +69322,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "ANZb1",
     "names": [
         "ANZb1"
@@ -69640,44 +69658,6 @@ var inscriptions = new Map([
         "𐘇𐘂𐝫",
         "\n",
         "𐝫𐘻𐘸𐘞𐘗𐝫"
-    ]
-}],
-["ARKH1af",{
-    "context": "",
-    "facsimileImages": [],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
-    "name": "ARKH1af",
-    "names": [
-        "ARKH1af"
-    ],
-    "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫",
-    "scribe": "",
-    "site": "Arkhalkhori",
-    "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫",
-    "translatedWords": [
-        "𐝫",
-        "\n",
-        "A",
-        "\n",
-        "𐝫"
-    ],
-    "transliteratedWords": [
-        "𐝫",
-        "\n",
-        "A",
-        "\n",
-        "𐝫"
-    ],
-    "words": [
-        "𐝫",
-        "\n",
-        "𐝫𐘇𐝫",
-        "\n",
-        "𐝫"
     ]
 }],
 ["ARKH1b",{
@@ -70406,7 +70386,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "ARKHZb<10>",
     "names": [
         "ARKHZb<10>"
@@ -70592,7 +70572,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/CRZf5-Inscription.jpg"
+    ],
     "name": "CRZf5",
     "names": [
         "CRZf5"
@@ -71123,19 +71105,26 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "PORZf2",
     "names": [
-        "PORZf2"
+        "PORZf2",
+        "POZf2"
     ],
-    "parsedInscription": "",
+    "parsedInscription": "𐘹𐘢𐘳",
     "scribe": "",
     "site": "Poros Herakleiou",
     "support": "Metal object",
-    "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
+    "transcription": "𐘹𐘢𐘳",
+    "translatedWords": [
+      "TU-PI-TA"
+    ],
+    "transliteratedWords": [
+      "TU-PI-TA"
+    ],
+    "words": [
+      "𐘹𐘢𐘳"
+    ]
 }],
 ["PKZb26",{
     "context": "",
@@ -71143,19 +71132,25 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "PKZb26",
     "names": [
         "PKZb26"
     ],
-    "parsedInscription": "",
+    "parsedInscription": "𐘄𐘰𐘆",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Clay vessel",
-    "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
+    "transcription": "𐘄𐘰𐘆",
+    "translatedWords": [
+      "TO-PA3-DI"
+    ],
+    "transliteratedWords": [
+      "TO-PA3-DI"
+    ],
+    "words": [
+      "𐘄𐘰𐘆"
+    ]
 }],
 ["ZAZb39",{
     "context": "",
@@ -71163,7 +71158,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": ["images/noimage.jpg"],
     "name": "ZAZb39",
     "names": [
         "ZAZb39",
@@ -75951,6 +75946,8 @@ var sequences = new Map([
 ],
 ]);
 var wordsInCorpus = new Map([
+["𐘹𐘢𐘳",1],
+["𐘄𐘰𐘆",1],
 ["", 2735],
 ["𐄁", 468],
 ["𐄇", 310],
